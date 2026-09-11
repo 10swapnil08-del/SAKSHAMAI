@@ -1,0 +1,10 @@
+IMPORTANT
+
+Do NOT double-click frontend/index.html.
+This is a React + Vite application and must run through the Vite development server.
+
+For Windows:
+1. Double-click START_SAKSHAMAI.bat in this folder.
+2. Wait for the browser to open at http://localhost:5173.
+
+The starter installs dependencies automatically on the first run.
